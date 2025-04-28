@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OAuth 콜백 성공</title>
+</head>
+<body>
+  <h1>OAuth 인증 콜백에 성공했습니다 🎉</h1>
+</body>
+</html>
